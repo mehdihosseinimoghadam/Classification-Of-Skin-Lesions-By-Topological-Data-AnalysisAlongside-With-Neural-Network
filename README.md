@@ -11,7 +11,7 @@ Authors:
 
 ** Department of Engineering, Kharazmi University, Taleghani street, Tehran, Iran
 
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 **This notebook  provides the supplementary code for the above article**
 
