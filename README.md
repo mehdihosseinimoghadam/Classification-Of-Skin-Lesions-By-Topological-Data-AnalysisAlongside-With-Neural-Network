@@ -11,7 +11,7 @@ Authors:
 
 ** Department of Engineering, Kharazmi University, Taleghani street, Tehran, Iran
 
-![Alt text](./Image/Best-of%20skin%20cancer.PNG?raw=true "Title")
+![Alt text](./Image/29.png?raw=true "Title")
 
 **This notebook  provides the supplementary code for the above article**
 
