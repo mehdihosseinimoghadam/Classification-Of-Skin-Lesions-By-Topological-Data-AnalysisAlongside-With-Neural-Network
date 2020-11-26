@@ -18,7 +18,7 @@ Authors:
 
 # Colab Link 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mehdihosseinimoghadam/Classification-Of-Skin-Lesions-By-Topological-Data-AnalysisAlongside-With-Neural-Network/blob/main/Classification_Of_Skin_Lesions_By_Topological_Data_AnalysisAlongside_With_Neural.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Classification-Of-Skin-Lesions-By-Topological-Data-AnalysisAlongside-With-Neural-Network/blob/main/Classification_Of_Skin_Lesions_By_Topological_Data_AnalysisAlongside_With_Neural.ipynb)
 
 
 # Abstract               
@@ -43,5 +43,3 @@ In this paper we have used the data set HAM10000 .There are a total of 10015 der
 * Melanocytic nevi are a benign type of melanocytic tu-mor. Patients with melanocytic nevi are considered tobe at a higher risk of melanoma.
 
 * Vascular lesions are composed of a wide range of skinlesion including cherry angiomas, angiokeratomas, andpyogenic granulomas. They are similarly character-ized as being red or purple in color and are usually araised bump.
-
-![Skin Cancers](./Image/lesions.png =150x150)
