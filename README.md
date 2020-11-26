@@ -16,9 +16,9 @@ Authors:
 **This notebook  provides the supplementary code for the above article**
 
 
-Colab Link 
+# Colab Link 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/as-ideas/TransformerTTS/blob/master/notebooks/synthesize_forward_melgan.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mehdihosseinimoghadam/Classification-Of-Skin-Lesions-By-Topological-Data-AnalysisAlongside-With-Neural-Network/blob/main/Classification_Of_Skin_Lesions_By_Topological_Data_AnalysisAlongside_With_Neural.ipynb)
 
 
 # Abstract               
@@ -44,4 +44,4 @@ In this paper we have used the data set HAM10000 .There are a total of 10015 der
 
 * Vascular lesions are composed of a wide range of skinlesion including cherry angiomas, angiokeratomas, andpyogenic granulomas. They are similarly character-ized as being red or purple in color and are usually araised bump.
 
-![Skin Cancers](./Image/lesions.png?raw=true "Title")
+![Skin Cancers](./Image/lesions.png =150x150)
