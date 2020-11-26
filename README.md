@@ -11,7 +11,7 @@ Authors:
 
 ** Department of Engineering, Kharazmi University, Taleghani street, Tehran, Iran
 
-![Alt text](./Image/Best.PNG?raw=true "Title")
+![TDA Result](./Image/Best.PNG?raw=true "Title")
 
 **This notebook  provides the supplementary code for the above article**
 
@@ -38,3 +38,4 @@ In this paper we have used the data set HAM10000 .There are a total of 10015 der
 
 * Vascular lesions are composed of a wide range of skinlesion including cherry angiomas, angiokeratomas, andpyogenic granulomas. They are similarly character-ized as being red or purple in color and are usually araised bump.
 
+![Skin Cancers](./Image/lesions.png?raw=true "Title")
