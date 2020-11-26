@@ -1,4 +1,4 @@
-# Classification-Of-Skin-Lesions-By-Topological-Data-AnalysisAlongside-With-Neural-Network
+# Classification-Of-Skin-Lesions-By-Topological-Data-Analysis-Along-side-With-Neural-Network
 
 [Paper Link](https://www.techrxiv.org/articles/preprint/Classification_Of_Skin_Lesions_By_Topological_Data_Analysis_Alongside_With_Neural_Network/12628088)
 
