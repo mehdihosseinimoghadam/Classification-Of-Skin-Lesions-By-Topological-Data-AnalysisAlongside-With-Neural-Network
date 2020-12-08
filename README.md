@@ -4,12 +4,12 @@
 
 
 Authors:
-* Naiereh Elyasi*
-* Mehdi Hosseini Moghadam**
+* Naiereh Elyasi
+* Mehdi Hosseini Moghadam
 
-\* Department of math and computer Sciences, Kharazmi University, Taleghani street, Tehran, Iran
+1) Department of math and computer Sciences, Kharazmi University, Taleghani street, Tehran, Iran
 
-** Department of Engineering, Kharazmi University, Taleghani street, Tehran, Iran
+2) Department of Engineering, Kharazmi University, Taleghani street, Tehran, Iran
 
 ![TDA Result](./Image/Best.PNG?raw=true "Title")
 
